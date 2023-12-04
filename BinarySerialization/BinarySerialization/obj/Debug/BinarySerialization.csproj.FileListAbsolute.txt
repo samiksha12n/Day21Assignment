@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb

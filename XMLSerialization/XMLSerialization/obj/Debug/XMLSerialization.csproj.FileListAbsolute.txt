@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb

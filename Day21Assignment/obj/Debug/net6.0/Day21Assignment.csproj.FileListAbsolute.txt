@@ -1,0 +1,14 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.AssemblyInfoInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.AssemblyInfo.cs
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\bin\Debug\net6.0\Day21Assignment.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\bin\Debug\net6.0\Day21Assignment.deps.json
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\bin\Debug\net6.0\Day21Assignment.runtimeconfig.json
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\bin\Debug\net6.0\Day21Assignment.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\bin\Debug\net6.0\Day21Assignment.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\refint\Day21Assignment.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\Day21Assignment.genruntimeconfig.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day21\Day21Assignment\Day21Assignment\obj\Debug\net6.0\ref\Day21Assignment.dll
